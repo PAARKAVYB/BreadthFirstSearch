@@ -222,6 +222,7 @@ print(r9)
 ### OUTPUT:
 
 ![output](Map1.png)
+
 ![output](Map2.png)
 
 ## SOLUTION JUSTIFICATION:
