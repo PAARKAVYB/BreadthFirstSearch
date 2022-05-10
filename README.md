@@ -217,6 +217,11 @@ print(r6)
 print(r7)
 print(r8)
 print(r9)
+
+goal_state_path=breadth_first_search(r2)
+print("GoalStateWithPath:{0}".format(goal_state_path))
+path_states(goal_state_path)
+print("Total Distance={0} Kilometers".format(goal_state_path.path_cost))
 ```
 
 ### OUTPUT:
